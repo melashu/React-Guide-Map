@@ -145,6 +145,11 @@
 [Project description](project/javascript-project2.md)
 
 # React 
+- [ይህን ርዕስ እንዴት መማር እችላለሁ?]()
+- [What is single page application](react/single-page-app.md)
+- [What is react?](react/what-is-react.md)
+- [Virtual DOM](react/virtual-dom.md)
+- [How to create React App](react/how-to-create-react-app.md)
 
 
 
