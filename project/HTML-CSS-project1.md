@@ -1,4 +1,5 @@
 # Project 1
+
 The objective of this project is to understand what you learn from the above HTML and CSS topics. In this project you are asked to do the portfolio project by mimicking the video.
 
 ## Project Requirement 
