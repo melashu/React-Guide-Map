@@ -4,8 +4,7 @@
 
 # Prerequisites to React 
 
-**Before you deep dive into React you have to learn the following technologies. Because react is built on top of this technologies.
-**
+**Before you deep dive into React you have to learn the following technologies. Because react is built on top of this technologies.**
 - **Git and GitHub**
 - **HTML**
 - **CSS**
