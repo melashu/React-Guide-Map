@@ -604,18 +604,6 @@ Congradulation! You did great work so far. Enjoy your break!
   - [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/)  
 </blockquote>
  </details>
-=======
-
-
-
-
-
-
-
-
-
-
->>>>>>> 17d49a20ee6ec99c63911c084b3675fdb020ffd7
 
   <!-- Week 6 Day 7-->
  <details>
