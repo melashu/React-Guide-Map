@@ -409,71 +409,243 @@ Congradulation! You did great work so far. Enjoy your break!
 </blockquote>
  </details>
 
+
+ <!-- Week 4 Day 7-->
+ <details>
+ <summary>
+ Day 7 : JavaScript Events
+ </summary>
+<blockquote>
+
+  - [A Complete Overview of JavaScript Events video tutorial](https://www.youtube.com/watch?v=YiOlaiscqDY)
+  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+  
+</blockquote>
+ </details>
+
 </blockquote>
 </details>
 
-  
-  
-  
+<!-- Week 5 -->
+<details>
+ <summary>
+ Week 5 : New ES6 syntax
+ </summary>
+<blockquote>
 
-  
-- JavaScript Events
-  - >[A Complete Overview of JavaScript Events video tutorial](https://www.youtube.com/watch?v=YiOlaiscqDY)
-  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-- New ES6 syntax
-  - > [ES6 JavaScript Tutorial for Beginners | by Maximilian Schwarzmüller video tutorial](https://www.youtube.com/watch?v=uaBNBWwjzV8)
-  - > [ES6 Tutorial: Learn Modern JavaScript in 1 Hour video tutorial](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+ <!-- Week 5 Day 1-->
+ <details>
+ <summary>
+ Day 1 : ES6 for Beginners
+ </summary>
+<blockquote>
+
+  - [ES6 JavaScript Tutorial for Beginners | by Maximilian Schwarzmüller video tutorial](https://www.youtube.com/watch?v=uaBNBWwjzV8)  
+  - [ES6 Tutorial: Learn Modern JavaScript in 1 Hour video tutorial](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+</blockquote>
+ </details>
+
+  <!-- Week 5 Day 2-->
+ <details>
+ <summary>
+ Day 2 : JavaScript let
+ </summary>
+<blockquote>
+
+   
   - [JavaScript let](https://www.javascripttutorial.net/es6/javascript-let/)
-  - [let vs. var](https://www.javascripttutorial.net/es6/difference-between-var-and-let/)
+  - [let vs. var](https://www.javascripttutorial.net/es6/difference-between-var-and-let/) 
+</blockquote>
+ </details>
+
+  <!-- Week 5 Day 3-->
+ <details>
+ <summary>
+ Day 3 : const
+ </summary>
+<blockquote>
+
   - [const](https://www.javascripttutorial.net/es6/javascript-const/)
+
+</blockquote>
+ </details>
+
+  <!-- Week 5 Day 4-->
+ <details>
+ <summary>
+ Day 4 : Default function parameters
+ </summary>
+<blockquote>
+
   - [Default function parameters](https://www.javascripttutorial.net/es6/javascript-default-parameters/)
+</blockquote>
+ </details>
+
+<!-- Week 5 Day 5-->
+ <details>
+ <summary>
+ Day 5 : Literals
+ </summary>
+<blockquote>
+
   - [Template Literals](https://www.javascripttutorial.net/es6/javascript-template-literals/)
   - [Object Literal Syntax Extensions](https://www.javascripttutorial.net/es6/object-literal-extensions/)
+</blockquote>
+ </details>
+
+ <!-- Week 5 Day 6-->
+ <details>
+ <summary>
+ Day 6 : Rest parameter and Spread operator
+ </summary>
+<blockquote>
+
   - [Rest parameter](https://www.javascripttutorial.net/es6/javascript-rest-parameters/)
-  - [Spread operator](https://www.javascripttutorial.net/es6/javascript-spread/)
+  - [Spread operator](https://www.javascripttutorial.net/es6/javascript-spread/)  
+</blockquote>
+ </details>
+
+  <!-- Week 5 Day 7-->
+ <details>
+ <summary>
+ Day 7 : For ... of
+ </summary>
+<blockquote>
+  
   - [for…of](https://www.javascripttutorial.net/es6/javascript-for-of/)
-- Destructuring
-  - > [JavaScript ES6 Destructuring of Arrays and Objects video tutorial](https://www.youtube.com/watch?v=rpYg2M2lNAE)
+</blockquote>
+ </details>
+</blockquote>
+</details>  
+    
+<!-- Week 6 -->
+<details>
+ <summary>
+ Week 6 : More on ES6
+ </summary>
+<blockquote>
+
+ <!-- Week 6 Day 1-->
+ <details>
+ <summary>
+ Day 1 : Destructuring
+ </summary>
+<blockquote>
+
+  - [JavaScript ES6 Destructuring of Arrays and Objects video tutorial](https://www.youtube.com/watch?v=rpYg2M2lNAE)
   - [Array Destructuring](https://www.javascripttutorial.net/es6/destructuring/)
   - [Object Destructuring](https://www.javascripttutorial.net/es6/javascript-object-destructuring/)
-- ES6 Modules
-  -  > [ES6 Modules video tutorial](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+</blockquote>
+ </details>
+
+  <!-- Week 6 Day 2-->
+ <details>
+ <summary>
+ Day 2 : ES6 Modules
+ </summary>
+<blockquote>
+
+   
+  -  [ES6 Modules video tutorial](https://www.youtube.com/watch?v=cRHQNNcYf6s)
   - [ES6 Modules](https://www.javascripttutorial.net/es6/es6-modules/)
-- ES6 Classes
-  - > [Classes - Beau teaches JavaScript](https://www.youtube.com/watch?v=bq_jZY6Skto)
+</blockquote>
+ </details>
+
+  <!-- Week 6 Day 3-->
+ <details>
+ <summary>
+ Day 3 : ES6 Classes
+ </summary>
+<blockquote>
+
+  - [Classes - Beau teaches JavaScript](https://www.youtube.com/watch?v=bq_jZY6Skto)
   - [Class](https://www.javascripttutorial.net/es6/javascript-class/) 
   - [Getters and Setters](https://www.javascripttutorial.net/es6/javascript-getters-and-setters/)
+
+
+
+</blockquote>
+ </details>
+
+  <!-- Week 6 Day 4-->
+ <details>
+ <summary>
+ Day 4 : continue on ES6 Classes
+ </summary>
+<blockquote>
+
   - [Class Expression](https://www.javascripttutorial.net/es6/javascript-class-expressions/)
-- Arrow Functions
-  - > [JavaScript ES6 Arrow Functions Tutorial video tutorial](https://www.youtube.com/watch?v=h33Srr5J9nY)
+</blockquote>
+ </details>
+
+<!-- Week 6 Day 5-->
+ <details>
+ <summary>
+ Day 5 : Arrow Functions
+ </summary>
+<blockquote>
+
+  - [JavaScript ES6 Arrow Functions Tutorial video tutorial](https://www.youtube.com/watch?v=h33Srr5J9nY)
   - [Arrow functions](https://www.javascripttutorial.net/es6/javascript-arrow-function/)
   - [Arrow functions: when you should not use](https://www.javascripttutorial.net/es6/when-you-should-not-use-arrow-functions/)
-- Promises
-  - > [JavaScript Promises In 10 Minutes video tutorial](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+</blockquote>
+ </details>
+
+ <!-- Week 6 Day 6-->
+ <details>
+ <summary>
+ Day 6 : Promises
+ </summary>
+<blockquote>
+
+  - [JavaScript Promises In 10 Minutes video tutorial](https://www.youtube.com/watch?v=DHvZLI7Db8E)
   - [Promises](https://www.javascripttutorial.net/es6/javascript-promises/)
   - [Promise chaining](https://www.javascripttutorial.net/es6/promise-chaining/)
-  - [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/)
+  - [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/)  
+</blockquote>
+ </details>
 
-## Project 2
-[Project description](project/javascript-project2.md)
-
-# React 
-- [ይህን ርዕስ እንዴት መማር እችላለሁ?]()
-- [What is single page application](react/single-page-app.md)
-- [What is react?](react/what-is-react.md)
-- [Virtual DOM](react/virtual-dom.md)
-- [How to create React App](react/how-to-create-react-app.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <!-- Week 6 Day 7-->
+ <details>
+ <summary>
+ Day 7 : For ... of
+ </summary>
+<blockquote>
   
+  - [for…of](https://www.javascripttutorial.net/es6/javascript-for-of/)
+</blockquote>
+ </details>
+
+</blockquote>
+ </details>
+ 
+<!--  -->
+<!-- Week 7 -->
+<details>
+ <summary>
+ Week 7 : Project Week
+ </summary>
+<blockquote>
+
+ <!-- Week 7 Day 1-->
+ <details>
+ <summary>
+ Day 1 : Project description
+ </summary>
+<blockquote>
+
+  [Project description](project/javascript-project2.md)
+</blockquote>
+ </details>
+
+  <!-- Week 7 Day 2-->
+
+ > Day 2 : completion and summtion date 
+
+ 
+</blockquote>
+ </details>
+<!--  -->
+
+
+
