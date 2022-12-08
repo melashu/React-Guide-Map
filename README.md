@@ -1,15 +1,14 @@
 # React-Guide-Map
-> **NB** This document containes both English and Amharic contents. 
-> 
-> **ትኩረት**፡  ይህ ሰነድ የእንግሊዝኛ እና የአማርኛ ይዘቶችን ይዟል።
+
 # Welcome to our react learning material. 
 
-### ይህ Module ምንድነው? የሚከተለውን Video ይመልከቱ፡፡
-### React ለምን እንማራለን? የሚከተለውን Video ይመልከቱ፡፡
+# Prerequisites to React 
 
-[How this module is organized](https://www.awesomescreenshot.com/video/11739193?key=8bf6044358ed425013385145fc7cb38e)
-
-### React ላይ ብቁ ለመሆን ምን መማር አለብን? የሚከተለውን Video ይመልከቱ፡፡
+**Before you deep dive into React you have to learn the following technologies. Because react is built on top of this technologies.
+**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Table of Content 
 <!-- Week 1 Task -->
@@ -433,6 +432,7 @@ Congradulation! You did great work so far. Enjoy your break!
  </summary>
 <blockquote>
 
+<<<<<<< HEAD
  <!-- Week 5 Day 1-->
  <details>
  <summary>
@@ -604,6 +604,18 @@ Congradulation! You did great work so far. Enjoy your break!
   - [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/)  
 </blockquote>
  </details>
+=======
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 17d49a20ee6ec99c63911c084b3675fdb020ffd7
 
   <!-- Week 6 Day 7-->
  <details>
