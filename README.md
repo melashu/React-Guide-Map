@@ -1,15 +1,14 @@
 # React-Guide-Map
-> **NB** This document containes both English and Amharic contents. 
-> 
-> **ትኩረት**፡  ይህ ሰነድ የእንግሊዝኛ እና የአማርኛ ይዘቶችን ይዟል።
+
 # Welcome to our react learning material. 
 
-### ይህ Module ምንድነው? የሚከተለውን Video ይመልከቱ፡፡
-### React ለምን እንማራለን? የሚከተለውን Video ይመልከቱ፡፡
+# Prerequisites to React 
 
-[How this module is organized](https://www.awesomescreenshot.com/video/11739193?key=8bf6044358ed425013385145fc7cb38e)
-
-### React ላይ ብቁ ለመሆን ምን መማር አለብን? የሚከተለውን Video ይመልከቱ፡፡
+**Before you deep dive into React you have to learn the following technologies. Because react is built on top of this technologies.
+**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Table of Content 
 <!-- Week 1 Task -->
@@ -415,55 +414,6 @@ Congradulation! You did great work so far. Enjoy your break!
   
   
   
-
-  
-- JavaScript Events
-  - >[A Complete Overview of JavaScript Events video tutorial](https://www.youtube.com/watch?v=YiOlaiscqDY)
-  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-- New ES6 syntax
-  - > [ES6 JavaScript Tutorial for Beginners | by Maximilian Schwarzmüller video tutorial](https://www.youtube.com/watch?v=uaBNBWwjzV8)
-  - > [ES6 Tutorial: Learn Modern JavaScript in 1 Hour video tutorial](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
-  - [JavaScript let](https://www.javascripttutorial.net/es6/javascript-let/)
-  - [let vs. var](https://www.javascripttutorial.net/es6/difference-between-var-and-let/)
-  - [const](https://www.javascripttutorial.net/es6/javascript-const/)
-  - [Default function parameters](https://www.javascripttutorial.net/es6/javascript-default-parameters/)
-  - [Template Literals](https://www.javascripttutorial.net/es6/javascript-template-literals/)
-  - [Object Literal Syntax Extensions](https://www.javascripttutorial.net/es6/object-literal-extensions/)
-  - [Rest parameter](https://www.javascripttutorial.net/es6/javascript-rest-parameters/)
-  - [Spread operator](https://www.javascripttutorial.net/es6/javascript-spread/)
-  - [for…of](https://www.javascripttutorial.net/es6/javascript-for-of/)
-- Destructuring
-  - > [JavaScript ES6 Destructuring of Arrays and Objects video tutorial](https://www.youtube.com/watch?v=rpYg2M2lNAE)
-  - [Array Destructuring](https://www.javascripttutorial.net/es6/destructuring/)
-  - [Object Destructuring](https://www.javascripttutorial.net/es6/javascript-object-destructuring/)
-- ES6 Modules
-  -  > [ES6 Modules video tutorial](https://www.youtube.com/watch?v=cRHQNNcYf6s)
-  - [ES6 Modules](https://www.javascripttutorial.net/es6/es6-modules/)
-- ES6 Classes
-  - > [Classes - Beau teaches JavaScript](https://www.youtube.com/watch?v=bq_jZY6Skto)
-  - [Class](https://www.javascripttutorial.net/es6/javascript-class/) 
-  - [Getters and Setters](https://www.javascripttutorial.net/es6/javascript-getters-and-setters/)
-  - [Class Expression](https://www.javascripttutorial.net/es6/javascript-class-expressions/)
-- Arrow Functions
-  - > [JavaScript ES6 Arrow Functions Tutorial video tutorial](https://www.youtube.com/watch?v=h33Srr5J9nY)
-  - [Arrow functions](https://www.javascripttutorial.net/es6/javascript-arrow-function/)
-  - [Arrow functions: when you should not use](https://www.javascripttutorial.net/es6/when-you-should-not-use-arrow-functions/)
-- Promises
-  - > [JavaScript Promises In 10 Minutes video tutorial](https://www.youtube.com/watch?v=DHvZLI7Db8E)
-  - [Promises](https://www.javascripttutorial.net/es6/javascript-promises/)
-  - [Promise chaining](https://www.javascripttutorial.net/es6/promise-chaining/)
-  - [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/)
-
-## Project 2
-[Project description](project/javascript-project2.md)
-
-# React 
-- [ይህን ርዕስ እንዴት መማር እችላለሁ?]()
-- [What is single page application](react/single-page-app.md)
-- [What is react?](react/what-is-react.md)
-- [Virtual DOM](react/virtual-dom.md)
-- [How to create React App](react/how-to-create-react-app.md)
-
 
 
 
