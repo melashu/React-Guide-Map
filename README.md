@@ -5,6 +5,9 @@
 # Prerequisites to React 
 
 **Before you deep dive into React you have to learn the following technologies. Because react is built on top of this technologies.**
+
+- **Git and GitHub**
+
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -431,7 +434,6 @@ Congradulation! You did great work so far. Enjoy your break!
  </summary>
 <blockquote>
 
-<<<<<<< HEAD
  <!-- Week 5 Day 1-->
  <details>
  <summary>
