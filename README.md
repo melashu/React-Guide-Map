@@ -650,3 +650,128 @@ Congradulation! You did great work so far. Enjoy your break!
 
 
 
+## React 
+<!-- Week 5  -->
+<details>
+ <summary>
+  Week 1 : React Intro 
+ </summary>
+<blockquote>
+ <details>
+ <summary>
+ Day 1 
+ </summary>
+<blockquote>
+
+- [What is single page application](react/single-page-app.md)
+- [What is react?](react/what-is-react.md)
+- [Virtual DOM](react/virtual-dom.md)
+
+</blockquote>
+ </details>
+
+ <details>
+ <summary>
+ Day 2
+ </summary>
+<blockquote>
+
+- [How to create React App](react/how-to-create-react-app.md)
+- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [ReactJS - JSX - video](https://youtu.be/7fPXI_MnBOY)
+- [React components](https://reactjs.org/docs/components-and-props.html)
+- [React components video](https://www.youtube.com/watch?v=Y2hgEGPzTZY)
+</blockquote>
+ </details>
+
+<details>
+ <summary>
+ Day 3
+ </summary>
+<blockquote>
+
+- [Props in React](https://www.freecodecamp.org/news/how-to-use-props-in-react/)
+- [State in React](https://reactjs.org/docs/state-and-lifecycle.html)
+- [Props and State Explained](https://www.freecodecamp.org/news/react-js-for-beginners-props-state-explained/)
+- [Props and State video](https://www.youtube.com/watch?v=mr75zNOGFP8)
+  
+</blockquote>
+ </details>
+
+ <details>
+ <summary>
+ Day 4
+ </summary>
+<blockquote>
+
+- [Handling events](https://reactjs.org/docs/handling-events.html)
+- [Class components lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)
+- [Lifting State up in ReactJS](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)
+  
+</blockquote>
+ </details>
+
+ <details>
+ <summary>
+ Day 5
+ </summary>
+<blockquote>
+
+- [React Hooks](https://www.freecodecamp.org/news/lets-get-hooked-a-quick-introduction-to-react-hooks-9e8bc3fbaeac/)
+- [React Hooks video](https://www.youtube.com/watch?v=HnXPKtro4SM)
+- [React Functional components](https://www.freecodecamp.org/news/react-components-jsx-props-for-beginners/)
+- [Function components video](https://www.youtube.com/watch?v=Cla1WwguArA)
+  
+</blockquote>
+ </details>
+
+  <details>
+ <summary>
+ Day 6
+ </summary>
+<blockquote>
+
+- [React Router doc](https://reactrouter.com/en/6.4.5)
+- [React Router video](https://www.youtube.com/watch?v=L2kzUg6IzxM&t=13s)
+    
+</blockquote>
+ </details>
+
+  <details>
+ <summary>
+ Day 7
+ </summary>
+<blockquote>
+
+## Break!
+    
+</blockquote>
+ </details>
+</blockquote>
+</details>
+
+
+
+<details>
+ <summary>
+ Week 2 : React Redux
+ </summary>
+<blockquote>
+
+  <details>
+ <summary>
+ Day 1
+ </summary>
+<blockquote>
+
+- [Introduction to Redux](https://medium.com/@alex_lobera/introduction-to-redux-redux-explained-with-very-simple-examples-b39d7967ceb8)
+- [Redux video tutorial](https://www.youtube.com/watch?v=iBUJVy8phqw&t=102s)
+    
+</blockquote>
+ </details>
+
+</blockquote>
+</details> 
+
+
+
